@@ -21,5 +21,10 @@
         <h1>This is Link to go to Hololive Channels</h1>
         <a href="https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg">Click this Link</a>
         <br>
+        
+        <h1>Joke</h1>
+        <p>Yagoo is Best girl.</p>
+        <p>Shirokami Fubuki is the cat.</p>
+        <p>Hololive is idol group same as AKB 48</p>
     </body>
 </html>
