@@ -3,7 +3,7 @@
         <title>TETE Dog & Cat</title>
     </head>
     <body>
-         <h1>My name is Jeeraphat Sakulsubwattana</h1>
+        <h1>My name is Jeeraphat Sakulsubwattana</h1>
         <p>My nickname is Golf</p>
         <p>My StudentID is 63070021</p>
         <br>
