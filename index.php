@@ -1,4 +1,4 @@
 <?php
-echo "<h2UwU</h2>";
+echo "<h2>UwU</h2>";
 echo "Hello world!<br>";
 ?>
