@@ -1,7 +1,7 @@
 <html>
     <head>
-        <title>My name is Jeeraphat Sakulsubwattana</title>>
-    </head>>
+        <title>My name is Jeeraphat Sakulsubwattana</title>
+    </head>
     <body>
         <h1>This is Nekomata Okayu</h1>
         <p>Shi is cat</p>
